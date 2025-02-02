@@ -68,7 +68,7 @@ restaurant.addOrder(irina, ["Чизкейк"]);
 
 for (const order of restaurant) {
   const { client, clientDishes } = order;
-  console.log(`Клиент ${client.name} заказал:`);
+  console.log(`Клиент ${client.name} заказал/а:`);
   clientDishes.forEach(dish => {
     const chef = restaurant.dishes.get(dish);
     console.log(`- ${dish} (готовит: ${chef})`);
