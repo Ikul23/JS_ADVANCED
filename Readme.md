@@ -4,4 +4,4 @@
 
 2. Реализация Задачи: <["Функциии и классы"](https://github.com/Ikul23/JS_ADVANCED/tree/main/HT2)>;
 
-3. Реализация Задачи: <["Промисы"]()>;
+3. Реализация Задачи: <["Промисы"](https://github.com/Ikul23/JS_ADVANCED/tree/main/HT3)>;
